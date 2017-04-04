@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **3** hours spent in total
+Time spent: **** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -25,7 +25,6 @@ Here's a walkthrough of testing:
 SQL Injection (SQLi) vulnerability 
 
 <img src='http://i.imgur.com/z2aCPyu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-http://i.imgur.com/z2aCPyu.gif
 
 ## Green
 
